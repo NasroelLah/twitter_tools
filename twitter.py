@@ -2,11 +2,11 @@ import time
 import requests , os
 import pyfiglet
 
-mydata = { "api" : "get from me",
-         "consumer_key" : "CONSUMER KEY",
-         "consumer_secret" : "CONSUMER SECRET",
-         "access_token" : "ACCESS TOKEN",
-         "access_token_secret" : "ACESS TOKEN SECRET"}
+mydata = { "api" : "SGB-EcbbgH9KDn",
+         "consumer_key" : "tLZYeHDfJAH1N6hnU5fnjk77v",
+         "consumer_secret" : "NwfFIgQVciM94W7l78CplYggoTShJSnWdnRMyHApiqPjYSAbZD",
+         "access_token" : "1087300065276813314-01BISKNl0ysBstsiB7Re3BTQO2saBp",
+         "access_token_secret" : "F7YgcWnZjaGIRxQi1vcZGI4Hd0akIRhjel9tQ3DYuk5mf"}
 
 
 status1 = True
